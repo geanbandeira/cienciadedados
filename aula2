@@ -1,0 +1,12 @@
+emprestimo de livro ciblicoteca, fato seria emprestimo , analisar alunos materias do livro, autores essas sao as dimençõe
+fato algo acontecido e dimenções piontos de vida
+exemplo venda
+exemplo desistencia (fato), dimensao aluno e curso
+
+Fato: Voo
+Dimensão Passageiro: idPassageiro, nome, dataNascimento, endereco, nacionalidade
+Dimensão Data: dataCompra, dataVoo
+Dimensão Aeroporto: nome, cnpj, 
+Dimensão Piloto: idPiloto, nome, dataNascimento, nacionalidade, endereco, 
+Dimensão Companhia aerea: cnpj, dataInauguracao, 
+Dimensão Avião: idAviao, marca, modelo, 
