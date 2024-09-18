@@ -1,12 +1,20 @@
-emprestimo de livro ciblicoteca, fato seria emprestimo , analisar alunos materias do livro, autores essas sao as dimençõe
+emprestimo de livro biblioteca, fato seria emprestimo , analisar alunos materias do livro, autores essas sao as dimenções
 fato algo acontecido e dimenções piontos de vida
 exemplo venda
 exemplo desistencia (fato), dimensao aluno e curso
 
 Fato: Voo
-Dimensão Passageiro: idPassageiro, nome, dataNascimento, endereco, nacionalidade
-Dimensão Data: dataCompra, dataVoo
-Dimensão Aeroporto: nome, cnpj, 
-Dimensão Piloto: idPiloto, nome, dataNascimento, nacionalidade, endereco, 
-Dimensão Companhia aerea: cnpj, dataInauguracao, 
-Dimensão Avião: idAviao, marca, modelo, 
+
+Dimensão Passageiro: idPassageiro, nome, dataNascimento, endereco, nacionalidade, categoria, gênero.
+
+Dimensão Data: dataCompra, dataVoo, diaDaSemana
+
+Dimensão Aeroporto: idAeroporto, nome, cnpj, cidade, país 
+
+Dimensão Piloto: idPiloto, nome, dataNascimento, nacionalidade, endereco, licença, anoInicio
+
+Dimensão Companhia aerea: cnpj, dataInauguracao, paisDeOrigem
+
+Dimensão Avião: idAviao, modelo, fabricante, anoFabricacao
+
+Dimençao Assento: idAssento, tipoAssento, posição, numero_fila
