@@ -1,0 +1,9 @@
+pegar esses dados e transformar em dados que melhor representam
+Ex Clustering de Documentos, agrupar documentos com temas semelhantes
+IDF calcula o peso das palavras
+Engenharia de caracteriastica, prepara os dados par aum resultado melhor 
+
+Gean Carlos de Sousa Bandeira, SP3030075, Introdução a Ciência de Dados
+Atividade 4
+Estudar o funcionamento da técnica TF-IDF e pesquisar por casos recentes de aplicação dessa técnica.
+O TF-IDF, em português Frequência do Termo Inverso da Frequência nos Documentos, é uma técnica importante com objetivo de encontrar documentos semelhantes a uma determinada consulta de pesquisa. A técnica é utilizada principalmente em classificar o peso de cada palavra de acordo com sua relevância, resumir artigos de forma eficiente e determinar as melhores palavras chaves para um documento. Um exemplo bem notório
